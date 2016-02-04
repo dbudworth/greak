@@ -1,4 +1,4 @@
-GoRoutine lEAK detector
+Goroutine Leak Detector 
 ==================
 
 Simple library used to track before / after snapshots of running go routines, basically, a diff tool for running goroutines.

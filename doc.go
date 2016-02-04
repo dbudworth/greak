@@ -1,4 +1,4 @@
-// GoRoutine lEAK detector.
+// Goroutine Leak Detector.
 //
 // A simple library that allows you to compare the current list of goroutines against a previously recorded set.
 //
